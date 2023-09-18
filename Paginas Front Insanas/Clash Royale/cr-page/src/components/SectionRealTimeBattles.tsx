@@ -14,7 +14,7 @@ export function SectionRealTimeBattles() {
           <Image
             src={Phone}
             alt="Gameplay Clash Royale"
-            className="max-w-[500px]"
+            className="max-w-[450px]"
           />
           <div className="flex flex-col items-start gap-10">
             <Title name="epic real-time battles" />

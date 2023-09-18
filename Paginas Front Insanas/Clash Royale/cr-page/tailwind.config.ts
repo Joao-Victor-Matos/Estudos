@@ -9,6 +9,7 @@ const config: Config = {
   theme: {
     backgroundImage: {
       "cr-bg": "url('../assets/cr-bg.png')",
+      "cr-bg2": "url('../assets/see-bg.png')",
     },
     extend: {
       colors: {
